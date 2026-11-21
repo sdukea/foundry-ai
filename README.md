@@ -1,4 +1,4 @@
-# flyrank-backend
+# foundry-ai
 
 Incremental backend systems engineering, from REST APIs to LLM-integrated services.
 Backend AI Engineering track, FlyRank AI Internship.
